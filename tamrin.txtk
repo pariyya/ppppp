@@ -1,30 +1,28 @@
 <!DOCTYPE html>
 <html lang="fa">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
         body {
             direction: rtl;
             text-align: right;
         }
-        .name {
-            font-size: 24px;
+        .نام {
+            font-size: 18px;
             color: red;
         }
-        .major {
-            font-size: 20px;
-        }
-        .university {
+        .رشته {
             font-size: 18px;
         }
-        .year {
-            font-size: 16px;
+        .دانشگاه {
+            font-size: 18px;
+        }
+        .سال {
+            font-size: 24px;
         }
     </style>
 </head>
 <body>
-    <img src="path-to-your-image.jpg" alt="عکس" width="150" height="150">
+    <img src="https://github.com/pariyya/ppppp/blob/main/download.jpg" alt="عکس" width="150" height="150">
     <h2 class="major">رشته: کامپیوتر</h2>
     <h3 class="university">دانشگاه: دانشگاه اصفهان</h3>
     <h4 class="year">سال: 1403</h4>
